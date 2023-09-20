@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-papel-tapiz-colorido-borroso-vivo_58702-3798.jpg?w=1380&t=st=1693517072~exp=1693517672~hmac=29b4663bc0d539681f417a06d6b8ca4ebd9d2452466fdd80f9e270e27cf13e9e");
+    background-position: center;
+    background-size: cover;
+  }
+
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      background-color: white; 
+      border-style:ridge;
+  }
+  
+  span
+  {
+      font-size: 20px;
+  }
